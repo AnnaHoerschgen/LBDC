@@ -1,3 +1,5 @@
+<!-- Made by Anna Hoerschgen - https://github.com/AnnaHoerschgen -->
+
 <?php
     // include statement for functions
     include "functions.php";

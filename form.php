@@ -1,3 +1,5 @@
+<!-- Made by Anna Hoerschgen - https://github.com/AnnaHoerschgen -->
+
 <form method="get">
     <label for="returnDate">Return Date</label>
     <input type="date" name="returnDate" placeholder="Enter Return Date...">
