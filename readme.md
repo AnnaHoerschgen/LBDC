@@ -12,4 +12,4 @@ The project is separated into five different files:
 The main point of it is that this project takes the return and due dates of a library book, checks them against each other (to see if the book is overdue, not yet due, or due today), and displays both them (separately) and the time difference between them.
 
 ## Project Credits
-Made by (Anna Hoerschgen)[https://github.com/AnnaHoerschgen]
+Made by [Anna Hoerschgen](https://github.com/AnnaHoerschgen).
