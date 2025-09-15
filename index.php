@@ -20,8 +20,6 @@
         if (isset($_GET['submit'])) {
             // include statement for the display
             include "display.php";
-        } else {
-            echo "This message should not appear. If it has, please check your inputs and try again.";
         }
     ?>
     <br>
